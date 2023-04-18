@@ -1,0 +1,30 @@
+body {
+    background: turquoise;
+    font-family:  'Dancing Script', cursive;
+}
+.header_div {
+    color: red;
+}
+.header_div p {
+    font-family:  'Inter', sans-serif;
+    color: green;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button {
+    font-family:  'Inter', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    background-color: yellow;
+    color: black;
+    bottom: 0;
+    line-height: 3;
+}
